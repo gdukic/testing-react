@@ -1,2 +1,0 @@
-# testing-react
-Begin app
